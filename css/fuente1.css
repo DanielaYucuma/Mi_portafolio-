@@ -1,5 +1,6 @@
 h2{
-    color: rgb(228, 205, 255);
+    color: red;
+    font-family: 'cinzel', sans-serif;
 }
 /* cinzel-700 - latin */
 @font-face {
