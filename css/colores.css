@@ -1,6 +1,10 @@
 h1{
     text-align: center;
 }
+.box-direction { 
+    display: flex;
+    flex-direction:row;
+}
 .box-style{
 
     width: 300px;
